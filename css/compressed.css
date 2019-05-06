@@ -2833,7 +2833,7 @@ w
     }
     table.gallery table.fixed tr td .bin.g-b {
         font-family: 'Rubik', sans-serif !important;
-        text-align: right;
+        text-align: left;
         display: block;
         font-weight: normal;
         color: #000;
@@ -3030,8 +3030,8 @@ w
         display: none;
     }
     table.gallery table.fixed tr td {
-        display: table-cell;
-        width: 50% !important;
+        
+        width: 100% !important;
     }
     table.gallery table.fixed tr td.basics {
         display: none
@@ -3712,8 +3712,9 @@ table.gallery table.fixed div.time2 {
 	text-transform: uppercase;
 }
 table.gallery tr td.details table.fixed img {
-    margin-top: 40px;
+    margin-top: 28px;
     position: absolute;
+    margin-left: -3px;
 }
 
 @media only screen and (max-width: 1200px) {
@@ -3867,9 +3868,9 @@ td#CentralArea span.pdmt {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     background: url(https://raw.githubusercontent.com/danish1u/astria-diamond-new/master/Images/buy_now.png) no-repeat;
-    width: 180px;
-    height: 236px;
-    padding-left: 180px;
+    width: 125px;
+    height: 22px;
+    padding-left: 140px;
   }
   .addfooter{
     max-width: 92%;
