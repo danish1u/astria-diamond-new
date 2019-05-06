@@ -2836,7 +2836,7 @@ w
         text-align: right;
         display: block;
         font-weight: normal;
-        color: #00b6e8;
+        color: #000;
         font-size: 14px;
     }
     table.fixed > tbody > tr > td:nth-child(1), table.fixed > tbody > tr > td:nth-child(2) {
@@ -3863,9 +3863,15 @@ td#CentralArea span.pdmt {
 	font-weight: 600;
 }
 .details img{
-    width: 100%;
-    height: 0;
-    padding: 0 0 200px 0;
-    background-image: url(https://raw.githubusercontent.com/danish1u/astria-diamond-new/master/Images/buy_now.png);
-    background-size: cover;
+    display: block;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background: url(https://raw.githubusercontent.com/danish1u/astria-diamond-new/master/Images/buy_now.png) no-repeat;
+    width: 180px;
+    height: 236px;
+    padding-left: 180px;
+  }
+  .addfooter{
+    max-width: 92%;
+    margin: auto
   }
