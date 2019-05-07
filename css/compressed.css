@@ -268,6 +268,7 @@ ESS Left column
     font-size: 20px;
     line-height: 31px;
     font-weight: normal;
+    text-transform: uppercase;
 }
 
 #LeftPanel .lcat .lev2 {}
@@ -282,6 +283,7 @@ ESS Left column
     font-weight: normal;
     font-family: 'Rubik', sans-serif !important;
     line-height: 17px;
+    text-transform: capitalize;
 }
 
 .r3_t i,
