@@ -3906,3 +3906,6 @@ td#CentralArea span.pdmt {
 .browse{
 	display: none !important;
 }
+#LeftPanel1 {
+    display: none;
+}
