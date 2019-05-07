@@ -233,7 +233,7 @@ ESS Left column
 #LeftPanel .lcat ul li,
 #LeftPanel .lcat ul li span {
     color: #000000;
-    font-family: "Playfair Display" !important;
+    font-family: 'Rubik', sans-serif !important;
     font-size: 20px;
     line-height: 31px;
     font-weight: normal;
@@ -264,7 +264,7 @@ ESS Left column
 
 #LeftPanel .lcat .lev1 li a {
     color: #000000;
-    font-family: "Playfair Display" !important;
+    font-family: 'Rubik', sans-serif !important;
     font-size: 20px;
     line-height: 31px;
     font-weight: normal;
