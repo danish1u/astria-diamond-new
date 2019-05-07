@@ -227,7 +227,7 @@ ESS Left column
 #LeftPanel .lcat ul li a:hover,
 #LeftPanel .oc ul li a:hover {
     text-decoration: none;
-    color: #dca87b;
+    color: #000000;
 }
 
 #LeftPanel .lcat ul li,
@@ -2628,7 +2628,7 @@ w
         font-family: inherit;
         font-weight: normal;
         color: #000000;
-        font-size: 1.25em;
+        font-size: 1em;
         background-color: transparent !important;
         white-space: nowrap;
         cursor: default;
@@ -2642,13 +2642,13 @@ w
         font-family: 'Rubik', sans-serif !important;
         font-weight: normal;
         color: #000000;
-        font-size: 1.25em;
+        font-size: 1em;
     }
     .pagewidth .fpcc .smuy span.countClass {
         font-family: 'Rubik', sans-serif !important;
         font-weight: normal;
-        color: #00b6e8;
-        font-size: 1.5em;
+        color: #000000;
+        font-size: 1em;
     }
     .olp-mn {
         margin-left: -6px
