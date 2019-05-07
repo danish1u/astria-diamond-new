@@ -2456,15 +2456,7 @@ w
     .v4midBox.v4nfc .v4acp_mid .v4mid .lev1 >li {
         position: relative;
     }
-    .v4midBox.v4nfc .v4acp_mid .v4mid .lev1 >li:before {
-        font-family: FontAwesome;
-        content: '\f0da';
-        font-size: 12px;
-        color: #3e3042;
-    position: absolute;
-    top: 8px;
-        left: 10px;
-    }
+
     .v4midBox.v4nfc .v4acp_mid .v4mid .lev1 >li:first-child {
         border-top: 0
     }
