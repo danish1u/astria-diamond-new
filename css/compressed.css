@@ -3903,3 +3903,6 @@ td#CentralArea span.pdmt {
     height: 280px;
     background-repeat: no-repeat;
 }
+.browse{
+	display: none !important;
+}
