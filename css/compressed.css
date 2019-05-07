@@ -274,7 +274,7 @@ ESS Left column
 #LeftPanel .lcat .lev2 {}
 
 #LeftPanel .lcat .lev2 li {
-    text-indent: 8px;
+    text-indent: 0px;
 }
 
 #LeftPanel .lcat .lev2 li a {
