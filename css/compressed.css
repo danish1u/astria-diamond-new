@@ -3903,3 +3903,9 @@ td#CentralArea span.pdmt {
 #LeftPanel1 {
     display: none;
 }
+.v4sbox {
+    box-sizing: border-box;
+    height: 51px;
+    width: 207px;
+    border: 1px solid #F0EEF1;
+}
