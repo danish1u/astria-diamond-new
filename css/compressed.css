@@ -3052,7 +3052,7 @@ w
         display: none;
     }
     .pagewidth div.r3_cm {
-        padding: 6px 10px 0px 56px;
+        padding: 6px 14px 0px 14px;
     }
     .pagewidth .fpcc {
         padding: 5px 0;
@@ -3402,7 +3402,7 @@ w
         margin-top: 0;
     }
     td#LeftPanel {
-        display: none;
+        display: none !important;
         width: 100% !important;
         padding: 0 20px;
         margin-top: 0;
