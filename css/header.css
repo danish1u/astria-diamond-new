@@ -205,12 +205,13 @@ input[type=checkbox] {
 .browse-catagories ul {
     text-align: center;
     padding-left: 0;
+        padding-top: 20px;
 }
 
 .browse-catagories ul li {
     list-style: none;
     display: inline-block;
-    padding: 23px;
+    padding: 10px;
 
 }
 
