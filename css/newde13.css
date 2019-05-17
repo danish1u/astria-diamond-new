@@ -141,13 +141,13 @@ color: #aba9a9!important;
 #gh-eb {
     position: absolute;
     top: 1px;
-    right: 62px;
+    right: 115px;
     z-index: 99999;
 }
 #gh-topl {
     margin-top: 1px;
     text-align: left;
-    margin-left: 62px;
+    margin-left: 115px;
 }
 #gh-top, #gh-gb {
     border-bottom: none;
