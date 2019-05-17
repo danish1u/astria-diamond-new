@@ -2765,13 +2765,9 @@ w
         border: 0;
     }
     .pagewidth table.gallery {
-        padding: 0px;
-        height: 370px;
-        min-height: 370px;
-        background-color: #fff;
-        margin-top: 0 !important;
-        margin-bottom: 0 !important;
-        border: 1px solid #dcdcdc;
+ height: 354px;
+    width: 317px;
+    border: 1px solid #979797;
     }
     table.gallery td.picture {
         height: 220px;
@@ -2809,7 +2805,7 @@ w
     }
     table.gallery tr td.details div.ttl {
         font-family: 'Rubik', sans-serif !important;
-        height: 40px;
+        height: 55px;
         overflow: hidden;
         margin: 0 0 20px;
         text-align: left;
@@ -2822,7 +2818,7 @@ w
         transition: 0.3s all ease-in-out;
     }
     table.gallery tr td.details div.ttl a:hover {
-        color: #dca87b!important;
+        color: #282727!important;
             text-decoration: none;
     }
     table.gallery table.fixed tr td .bin.g-b {
@@ -3867,7 +3863,7 @@ td#CentralArea span.pdmt {
     padding-left: 140px;
   }
   .addfooter{
-    max-width: 92%;
+    max-width: 85%;
     margin: auto
   }
 .submit {
