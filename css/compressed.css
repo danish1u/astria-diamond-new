@@ -3873,7 +3873,7 @@ td#CentralArea span.pdmt {
     margin: auto
   }
   }
-  @media screen and (min-width: 1450px) {
+  @media screen and (max-width: 1450px) {
 .addfooter{
     max-width: 93%;
     margin: auto
