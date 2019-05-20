@@ -773,3 +773,11 @@ textarea:focus, input:focus {
 .tab label.last-tabs {
   border: 0
 }
+@media screen and (min-width: 786px){
+.browse-catagories {
+   display:none;
+  }
+.browse-logos {
+   display:none;
+  }
+}
