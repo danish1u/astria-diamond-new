@@ -3866,6 +3866,12 @@ td#CentralArea span.pdmt {
     max-width: 85%;
     margin: auto
   }
+  @media screen and (max-width: 1600px) {
+.addfooter{
+    max-width: 79%;
+    margin: auto
+  }
+  }
 .submit {
     padding-top: 20px;
     width: 100%;
