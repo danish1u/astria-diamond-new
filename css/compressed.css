@@ -237,6 +237,7 @@ ESS Left column
 font-weight: bold;
     font-family: 'Prompt', sans-serif!important;
     letter-spacing: 1.50px;
+	    font-size: 14px;
 }
 
 #LeftPanel .lcat .cnt {
@@ -265,10 +266,12 @@ font-weight: bold;
 #LeftPanel .lcat .lev1 li a {
     color: #000000;
     font-family: 'Rubik', sans-serif !important;
-    font-size: 17px;
+    font-size: 14px;
     line-height: 31px;
-    font-weight: normal;
+    font-weight: bold;
     text-transform: uppercase;
+	ont-family: 'Prompt', sans-serif!important;
+    letter-spacing: 1.50px;
 }
 
 #LeftPanel .lcat .lev2 {}
