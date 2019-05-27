@@ -12,7 +12,7 @@ src: local('Agenda-Light'), url('ufonts.com_agenda-light.woff') format('woff');
 font-family: 'Agenda-MediumCondensed';
 font-style: normal;
 font-weight: normal;
-src: local('Agenda-MediumCondensed'), url('ufonts.com_agenda-mediumcondensed.woff') format('woff');
+src: local('Agenda-MediumCondensed'), url('https://danish1u.github.io/astria-diamond-new/fonts/ufonts.com_agenda-mediumcondensed.woff') format('woff');
 }
 
 
