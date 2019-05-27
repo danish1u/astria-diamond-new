@@ -234,10 +234,9 @@ ESS Left column
 #LeftPanel .lcat ul li,
 #LeftPanel .lcat ul li span {
     color: #000000;
-    font-family: 'Rubik', sans-serif !important;
-    font-size: 20px;
-    line-height: 31px;
-    font-weight: normal;
+font-weight: bold;
+    font-family: 'Prompt', sans-serif!important;
+    letter-spacing: 1.50px;
 }
 
 #LeftPanel .lcat .cnt {
@@ -282,7 +281,7 @@ ESS Left column
     color: #000000;
     font-size: 13px;
     font-weight: normal;
-    font-family: 'Rubik', sans-serif !important;
+        font-family: 'Prompt', sans-serif!important;
     line-height: 17px;
     text-transform: capitalize;
 }
@@ -2823,12 +2822,12 @@ w
             text-decoration: none;
     }
     table.gallery table.fixed tr td .bin.g-b {
-        font-family: 'Rubik', sans-serif !important;
+            font-family: 'Agenda-MediumCondensed' !important;
         text-align: left;
         display: block;
         font-weight: normal;
         color: #000;
-        font-size: 14px;
+        font-size: 21px;
     }
     table.fixed > tbody > tr > td:nth-child(1), table.fixed > tbody > tr > td:nth-child(2) {
         width: 50%!Important;
