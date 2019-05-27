@@ -301,7 +301,7 @@ font-weight: bold;
 .v4stabl {
     position: relative;
     top: 10px;
-    right: 25px;
+    right: 35px;
     color: #000 !important;
     width: 500px;
     float: right;
@@ -3866,7 +3866,7 @@ td#CentralArea span.pdmt {
     padding-left: 140px;
   }
   .addfooter{
-    max-width: 85%;
+    max-width: 86%;
     margin: auto
   }
   @media screen and (min-width: 1600px) {
