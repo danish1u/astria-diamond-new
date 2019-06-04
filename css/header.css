@@ -241,13 +241,16 @@ input[type=checkbox] {
 
 .browse-colored-diamo {
     color: #000000;
-    font-family: "Playfair Display";
+    font-family: 'Prompt', sans-serif!important;
     font-size: 17px;
     letter-spacing: 3px;
     line-height: 20px;
     text-align: center;
+        font-weight: 600;
 }
-
+.mgq img{
+        width: 156px;
+}
 .wholesale-banner {
     background: url('http://asteriadiamonds.com/ebay-template/store/WholesaleBanner.jpg');
     max-width: 1372px;
@@ -322,8 +325,8 @@ input[type=checkbox] {
     height: 70px;
 
     color: #000000;
-    font-family: "Playfair Display";
-    font-size: 15px;
+    font-family: 'Prompt', sans-serif!important;
+    font-size: 13px;
     letter-spacing: 3px;
     line-height: 20px;
     text-align: center;
